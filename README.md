@@ -5,12 +5,12 @@ An automatic answer program for the game Word Bomb on Roblox.
 TBD
 
 ## Todo
-- [] Create files
-- [] Figure out what letters are on the screen
-- [] Do not reuse words in the same round
-- [] Type out useable word
-- [] Submit?
-- [] Create (or find) csv of lots of English words
+- [ ] Create files
+- [ ] Figure out what letters are on the screen
+- [ ] Do not reuse words in the same round
+- [ ] Type out useable word
+- [ ] Submit?
+- [ ] Create (or find) csv of lots of English words
 
 ## Disclaimer
 I do not condone cheating.
