@@ -2,7 +2,7 @@
 An automatic answer program for the game Word Bomb on Roblox. 
 
 # Credits
-Word list: [SCOWL (And Friends)](http://wordlist.aspell.net/)
+Word list: [SCOWL (And Friends)](http://wordlist.aspell.net/) \n
 List used: [The 2of12inf list](http://wordlist.aspell.net/12dicts-readme/#2of12inf) (With symbols removed)
 
 ## Directions
