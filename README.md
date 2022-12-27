@@ -1,10 +1,10 @@
 # Word-Py
 An automatic answer program for the game Word Bomb on Roblox. 
 
-# Directions
+## Directions
 TBD
 
-# Todo
+## Todo
 - [] Create files
 - [] Figure out what letters are on the screen
 - [] Do not reuse words in the same round
@@ -12,7 +12,7 @@ TBD
 - [] Submit?
 - [] Create (or find) csv of lots of English words
 
-# Disclaimer
+## Disclaimer
 I do not condone cheating.
 
 Tool only for use on private servers against consenting parties.
