@@ -10,12 +10,13 @@ List used: [The 2of12inf list](http://wordlist.aspell.net/12dicts-readme/#2of12i
 TBD
 
 ## Todo
-- [ ] Create files
-- [ ] Figure out what letters are on the screen
+- [x] Create files
+- [x] Figure out what letters are on the screen
 - [ ] Do not reuse words in the same round
 - [ ] Type out useable word
 - [ ] Submit?
-- [ ] Create (or find) csv of lots of English words
+- [x] Create (or find) csv of lots of English words
+- [ ] Fix letter recognition
 
 ## Disclaimer
 I do not condone cheating.
